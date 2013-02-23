@@ -1,5 +1,5 @@
 
-package com.aokp.swagpapers;
+package com.rootbox.wallpapers;
 
 public class Wallpaper {
 
