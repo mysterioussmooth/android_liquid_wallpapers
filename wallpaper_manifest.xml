@@ -1,424 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wallpapers>
 
+    <category name="RootBox" >
 
-<category name="RootBox" >
+        <wallpaper
+            author="Dustin Wann"
+            url="http://rootbox.ca/wp-content/uploads/2013/02/TextureDroidxhdpi.png" 
+            thumbUrl="http://rootbox.ca/wp-content/uploads/2013/02/TextureDroidhdpi.png"/>
+
+        <wallpaper
+            author="Dustin Wann"
+            url="http://rootbox.ca/wp-content/uploads/2013/02/rootboxglowxhdpi.png" 
+            thumbUrl="http://rootbox.ca/wp-content/uploads/2013/02/rootboxglowhdpi.png"/>
+
+        <wallpaper
+            author="Giovanni Joubert"
+            url="http://rootbox.ca/wp-content/uploads/2013/02/1440x1280.png" 
+            thumbUrl="http://rootbox.ca/wp-content/uploads/2013/02/1440x1280.png"/>
 
         <wallpaper
             author="Sergej Zeiger"
-            url="http://wheretwo.com/RootBOX/Wallpapers/RootBox_Sergej.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/RootBox_Sergej1.jpg" 
+            thumbUrl="http://rootbox.ca/wp-content/uploads/2013/02/RootBox_Sergej1.jpg"/>
+
+        <wallpaper
+            author="Darren Wong"
+            url="http://rootbox.ca/wp-content/uploads/2013/02/RootBox-xHDPI-1440x1280.png" 
+            thumbUrl="http://rootbox.ca/wp-content/uploads/2013/02/RootBox-xHDPI-1440x1280.png"/>
 
         <wallpaper
             author="Iain Rough"
-            url="http://wheretwo.com/RootBOX/Wallpapers/RootBox_Iain_Rough.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/RootBox_Iain_Rough.jpg" />
 
         <wallpaper
             author="Ciribaski"
-            url="http://wheretwo.com/RootBOX/Wallpapers/xhdpi_simple_black.png" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/xhdpi_simple_black.png" />
 
         <wallpaper
             author="Ciribaski"
-            url="http://wheretwo.com/RootBOX/Wallpapers/xhdpi_simple_black2.png" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/xhdpi_simple_black2.png" />
 
         <wallpaper
             author="Ciribaski"
-            url="http://wheretwo.com/RootBOX/Wallpapers/xhdpi_simple_black3.png" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/xhdpi_simple_black3.png" />
 
         <wallpaper
             author="Ciribaski"
-            url="http://wheretwo.com/RootBOX/Wallpapers/xhdpi_simple_black4.png" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/xhdpi_simple_black4.png" />
 
         <wallpaper
             author="Ciribaski"
-            url="http://wheretwo.com/RootBOX/Wallpapers/xhdpi_simple_black5.png" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/xhdpi_simple_black5.png" />
 
         <wallpaper
             author="Kris"
-            url="http://wheretwo.com/RootBOX/Wallpapers/RootBox_Kris.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/RootBox_Kris.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/bluewall_pure_black_and_white.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/bluewall_pure_black_and_white.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/bluewall_white_unicorn_and_blue.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/bluewall_white_unicorn_and_blue.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/bluewall_white_unicorn_and_green.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/bluewall_white_unicorn_and_green.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/bluewall_white_unicorn_and_orange.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/bluewall_white_unicorn_and_orange.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/eatmode4life_skycore.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/eatmode4life_skycore.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/jaithemes_rusty_unicorn1.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/jaithemes_rusty_unicorn1.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/jaithemes_rusty_unicorn2.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/jaithemes_rusty_unicorn2.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/jaithemes_rusty_unicorn3.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/jaithemes_setyourunicornfree.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/jaithemes_setyourunicornfree.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/jaithemes_unicorn_sky.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/jaithemes_striped.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/jaithemes_unicorn_sky_black.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/jaithemes_striped_blue.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/jaithemes_village.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/jaithemes_unicorn_sky.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/jaithemes_village_gradient.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/jaithemes_unicorn_sky_black.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/mobile_sensei_x1.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/jaithemes_village.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/mobile_sensei_x2.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/jaithemes_village_gradient.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/mobile_sensei_x3.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/just_reboot_abstract.png" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/mobile_sensei_x4.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/just_reboot_abstract2.png" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/mobile_sensei_x5.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/just_reboot_aokp_samurai.png" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/mobile_sensei_x6.jpg" />
 
         <wallpaper
             author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/just_reboot_wall_10.png" />
-
-        <wallpaper
-            author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/knokfirst_phlashlogo.jpg" />
-
-        <wallpaper
-            author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/knokfirst_phlashlogo_crazy.jpg" />
-
-        <wallpaper
-            author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/knokfirst_phlashlogo_light.jpg" />
-
-        <wallpaper
-            author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/kwes1020_aokpwp1.png" />
-
-        <wallpaper
-            author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/kwes1020_aokpwp2.png" />
-
-        <wallpaper
-            author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/mobile_sensei_x1.jpg" />
-
-        <wallpaper
-            author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/mobile_sensei_x2.jpg" />
-
-        <wallpaper
-            author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/mobile_sensei_x3.jpg" />
-
-        <wallpaper
-            author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/mobile_sensei_x4.jpg" />
-
-        <wallpaper
-            author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/mobile_sensei_x5.jpg" />
-
-        <wallpaper
-            author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/mobile_sensei_x6.jpg" />
-
-        <wallpaper
-            author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/mobile_sensi_star.jpg" />
-
-        <wallpaper
-            author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/samsungclay01.jpg" />
-
-        <wallpaper
-            author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/samsungclay02.jpg" />
-
-        <wallpaper
-            author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/samsungclay03.jpg" />
-
-        <wallpaper
-            author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/samsungclay_kangbama.jpg" />
-
-        <wallpaper
-            author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/thaplash_logo_head_office.jpg" />
-
-        <wallpaper
-            author="RootBox"
-            url="http://wheretwo.com/RootBOX/Wallpapers/thaplash_logo_head_office2.jpg" />
-    </category>
-
-    <category name="AOKP" >
-
-        <wallpaper
-            author="ThaPHLASH"
-            url="http://aokp.co/wallpapers/thaplash_logo_head_office.jpg" />
-
-        <wallpaper
-            author="ThaPHLASH"
-            url="http://aokp.co/wallpapers/thaplash_logo_head_office2.jpg" />
-
-        <wallpaper
-            author="eatmode4life"
-            url="http://aokp.co/wallpapers/eatmode4life_skycore.jpg" />
-
-        <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_striped_blue.jpg" />
-
-        <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_striped.jpg" />
-
-        <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_village_gradient.jpg" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/just_reboot_abstract.png" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/just_reboot_abstract2.png" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/just_reboot_aokp_samurai.png" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/just_reboot_wall_10.png" />
-
-        <wallpaper
-            author="KnokFirst"
-            url="http://aokp.co/wallpapers/knokfirst_phlashlogo_crazy.jpg" />
-
-        <wallpaper
-            author="KnokFirst"
-            url="http://aokp.co/wallpapers/knokfirst_phlashlogo_light.jpg" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/knokfirst_phlashlogo.jpg" />
-
-        <wallpaper
-            author="kwes1020"
-            url="http://aokp.co/wallpapers/kwes1020_aokpwp1.png" />
-
-        <wallpaper
-            author="kwes1020"
-            url="http://aokp.co/wallpapers/kwes1020_aokpwp2.png" />
-    </category>
-
-    <category name="Newest" >
-        <wallpaper
-            author="gleezbo"
-            url="http://aokp.co/wallpapers/gleezbo_orb.png" />
-
-        <wallpaper
-            author="gleezbo"
-            url="http://aokp.co/wallpapers/gleezbo_space.png" />
-
-        <wallpaper
-            author="gleezbo"
-            url="http://aokp.co/wallpapers/gleezbo_space_android.png" />
-
-        <wallpaper
-            author="gleezbo"
-            url="http://aokp.co/wallpapers/gleezbo_wallpaper_white2.png" />
-
-        <wallpaper
-            author="gleezbo"
-            url="http://aokp.co/wallpapers/gleezbo_weirddeded.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_bw_black.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_bw_white.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_dark_blue_black.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_dark_blue_white.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_dark_green_black.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_dark_green_white.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_dark_pink_black.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_dark_pink_white.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_frost_black.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_frost_white.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_green_black.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_green_white.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_light_blue_black.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_light_blue_white.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_light_pink_black.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_light_pink_white.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_orange_black.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_orange_white.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_purple_black.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_purple_white.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_red_black.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_red_white.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_yellow_black.png" />
-
-        <wallpaper
-            author="dnnysaenz"
-            url="http://aokp.co/wallpapers/dnnysaenz_yellow_white.png" />
-
-        <wallpaper
-            author="daxxmax"
-            url="http://aokp.co/wallpapers/daxxmax_aokp_galaxy.jpg" />
-    </category>
-
-    <category name="Older Wallpapers" >
-
-        <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_blue.jpg" />
-
-        <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_green.jpg" />
-
-        <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_orange.jpg" />
-
-        <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_setyourunicornfree.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x1.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x2.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x3.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x4.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x5.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x6.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensi_star.jpg" />
-
-        <wallpaper
-            author="SamsungClay"
-            url="http://aokp.co/wallpapers/samsungclay02.jpg" />
+            url="http://rootbox.ca/wp-content/uploads/2013/02/mobile_sensi_star.jpg" />
     </category>
 
 </wallpapers>
