@@ -1,5 +1,5 @@
 
-package com.rootbox.wallpapers;
+package com.liquid.wallpapers;
 
 import android.app.ActionBar;
 import android.app.Activity;

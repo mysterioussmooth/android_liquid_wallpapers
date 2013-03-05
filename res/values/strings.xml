@@ -1,7 +1,7 @@
 <resources>
 
-    <string name="app_name">RB Wallpapers</string>
-    <string name="title_activity_wallpaper">RB Papers</string>
+    <string name="app_name">Liquid Wallpapers</string>
+    <string name="title_activity_wallpaper">Liquid Papers</string>
     <string name="back">Previous</string>
     <string name="next">Next</string>
     <string name="page">Page: </string>

@@ -1,5 +1,5 @@
 
-package com.rootbox.wallpapers;
+package com.liquid.wallpapers;
 
 import java.util.ArrayList;
 import java.util.List;
