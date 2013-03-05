@@ -14,67 +14,27 @@
         name="<wallpaper name">
     -->
 
-    <category name="AOKP" >
+    <category name="LiquidSmooth" >
 
         <wallpaper
-            author="ThaPHLASH"
-            url="http://aokp.co/wallpapers/thaplash_logo_head_office.jpg" />
+            author="Annex1"
+            url="http://goo.im/devs/liquidsmooth/wallpapers/Annex-Liquid1.png" />
 
         <wallpaper
-            author="ThaPHLASH"
-            url="http://aokp.co/wallpapers/thaplash_logo_head_office2.jpg" />
+            author="$Droyd$"
+            url="http://goo.im/devs/liquidsmooth/wallpapers/Droyd-Wave1.png" />
 
         <wallpaper
-            author="eatmode4life"
-            url="http://aokp.co/wallpapers/eatmode4life_skycore.jpg" />
+            author="$Droyd$"
+            url="http://goo.im/devs/liquidsmooth/wallpapers/Droyd-Wave2.png" />
 
         <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_striped_blue.jpg" />
+            author="$Droyd$"
+            url="http://goo.im/devs/liquidsmooth/wallpapers/Droyd-Wave3.png" />
 
         <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_striped.jpg" />
-
-        <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_village_gradient.jpg" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/just_reboot_abstract.png" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/just_reboot_abstract2.png" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/just_reboot_aokp_samurai.png" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/just_reboot_wall_10.png" />
-
-        <wallpaper
-            author="KnokFirst"
-            url="http://aokp.co/wallpapers/knokfirst_phlashlogo_crazy.jpg" />
-
-        <wallpaper
-            author="KnokFirst"
-            url="http://aokp.co/wallpapers/knokfirst_phlashlogo_light.jpg" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/knokfirst_phlashlogo.jpg" />
-
-        <wallpaper
-            author="kwes1020"
-            url="http://aokp.co/wallpapers/kwes1020_aokpwp1.png" />
-
-        <wallpaper
-            author="kwes1020"
-            url="http://aokp.co/wallpapers/kwes1020_aokpwp2.png" />
+            author="$Droyd$"
+            url="http://goo.im/devs/liquidsmooth/wallpapers/Droyd-Wave4.png" />
     </category>
 
     <category name="Older Wallpapers" >
@@ -82,50 +42,6 @@
         <wallpaper
             author="Bluewall"
             url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_blue.jpg" />
-
-        <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_green.jpg" />
-
-        <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_orange.jpg" />
-
-        <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_setyourunicornfree.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x1.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x2.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x3.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x4.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x5.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x6.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensi_star.jpg" />
-
-        <wallpaper
-            author="SamsungClay"
-            url="http://aokp.co/wallpapers/samsungclay02.jpg" />
     </category>
 
 </wallpapers>
